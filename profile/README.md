@@ -17,6 +17,6 @@ We want clean energy now.
 - PostgreSQL
 - TailwindCSS
 
-### Careers
+🧑🏻‍💻 Careers
 Interested in working for Wildgrid?
 See our <a href="https://wildgrid.notion.site/Current-Openings-b249b5bebb9c4fa4a7e696617260877a" target="_blank">current openings</a>.
